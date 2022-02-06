@@ -1,5 +1,5 @@
 ### Hi there, friend 👋
-- 🔭 I’m currently working on Java, PHP, MySQL, and JavaScript.
+- 🔭 I’m currently working on Java, C, PHP, MySQL, and JavaScript.
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with getting ready for technical interviews.
