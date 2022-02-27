@@ -14,5 +14,5 @@
 - 😄 Pronouns: subject - he/ object - him/ possessive - his/ possessive pronoun - his/ reflexive - himself
 - ⚡ Fun fact: I enjoy technology, learning new subjects, mixed martial arts, powerlifting, cooking, and self-improvement.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&layout=compact" alt="mybffjustin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&theme=shadesofpurplelayout=compact" alt="mybffjustin" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybffjustin&show_icons=true" alt="mybffjustin" /></p>
