@@ -15,4 +15,4 @@
 - ⚡ Fun fact: I enjoy technology, learning new subjects, mixed martial arts, powerlifting, cooking, and self-improvement.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&theme=shades-of-purple&show_icons=truelayout=compact" alt="mybffjustin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybffjustin&show_icons=true" alt="mybffjustin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybffjustin&theme=shades-of-purpleshow_icons=true" alt="mybffjustin" /></p>
