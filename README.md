@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, friend👋; my name is Justin👨‍🎓</h1>
-<h2 align="center">I am a student software engineer👨‍💻</h2>
+<h1 align="center">Hi there, friend👋; my name is Justin👨‍💻</h1>
+<h2 align="center">I am a student software engineer👨‍🎓</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mybffjustin&label=Profile%20views&color=A41034&style=for-the-badge" alt="mybffjustin" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mybffjustin&theme=dark_lover" alt="mybffjustin" /></a> </p>
