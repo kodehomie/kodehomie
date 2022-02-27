@@ -5,7 +5,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mybffjustin&theme=shades-of-purple" width="48%" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mybffjustin&theme=dark_lover" alt="mybffjustin" /></a> </p>
 
-![mybffjustin](https://user-images.githubusercontent.com/79040798/155876968-41445f21-1ae6-44cb-baba-15d4d9593128.png)
+![mybffjustin](https://user-images.githubusercontent.com/79040798/155876991-3caed1a8-38da-4a8f-83f9-52182023e70e.png)
 - 🔭 I’m currently working on Java, C, PHP, MySQL, and JavaScript.
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on projects.
