@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybffjustin&theme=shades-of-purple&show_icons=truelayout=compact" alt="mybffjustin" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybffjustin&theme=shades-of-purple&show_icons=true" alt="mybffjustin" /></p>
-![](https://user-images.githubusercontent.com/79040798/155877248-c0534586-63bd-4e73-ae6e-4595238afbde.gif)
