@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, friend👋; my name is Justin👨‍💻</h1>
-<h2 align="center">I am a student software engineer👨‍🎓</h2>
+<h3 align="center">I am a student software engineer👨‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mybffjustin&label=Profile%20views&color=A41034&style=for-the-badge" alt="mybffjustin" /> </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mybffjustin&theme=shades-of-purple" width="48%" >
